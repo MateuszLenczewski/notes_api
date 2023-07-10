@@ -1,0 +1,23 @@
+{
+    "curly":false,
+    "eqeqeq":true,
+    "forin":true,
+    "immed":true,
+    "latedef":true,
+    "newcap":true,
+    "noarg":true,
+    "nonew":true,
+    "undef":true,
+    "strict":true,
+    "asi":true,
+    "eqnull":true,
+    "evil":true,
+    "laxcomma":true,
+    "multistr":true,
+    "proto":true,
+    "smarttabs":true,
+    "sub":true,
+    "node":true,
+    "nonstandard":true,
+    "unused": true
+  }
