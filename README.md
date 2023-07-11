@@ -4,13 +4,13 @@ Simple API written for managing notes
 
 ## Installation
 
-The application requires to download all dependencies by running command:
+The application requires downloading all dependencies by running the command:
 
 ```
 npm install
 ```
 
-After successful installation all you have to do is run the main file:
+After successful installation, all you have to do is run the main file:
 
 ```
 node index.js
